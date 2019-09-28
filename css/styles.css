@@ -1,0 +1,5 @@
+/* Hide Loader Gif and Results Initially */
+#loader,
+#results {
+    display: none;
+}
